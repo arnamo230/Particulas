@@ -1,4 +1,4 @@
-# Particulas
+# Partículas
 
 En este proyecto he creado un sistema de partículas sin usar el Particle System de Unity. Todo está hecho por código. Cada partícula se mueve siguiendo un tiro parabólico usando las fórmulas básicas de física.
 
